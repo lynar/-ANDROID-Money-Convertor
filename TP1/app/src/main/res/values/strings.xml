@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="button">CLIQUE</string>
+    <string name="text">Conversion</string>
+    <string name="edit">Insert money here</string>
+
+</resources>

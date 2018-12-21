@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TP4 Converter</string>
+
+    <!--
+    Question TP1 - Question 4, fichier des chaines de caractéres
+    -->
+
+    <string name="euro">€</string>
+    <string name="dollar">$</string>
+    <string name="value">Value</string>
+    <string name="conv">Converter</string>
+    <string name="result">Result</string>
+
+
+    <!--
+    TP3 - Question 1, création du tableau des valeurs contenue par le spinner
+    -->
+    <string-array name="spinner">
+        <item>Euro</item>
+        <item>Dollar</item>
+        <item>Yen</item>
+        <item>Peso</item>
+    </string-array>
+</resources>
